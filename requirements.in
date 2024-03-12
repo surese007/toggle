@@ -1,0 +1,6 @@
+flask
+flask-restx
+flask-cors
+Flask-SQLAlchemy
+python-dotenv
+pytest
